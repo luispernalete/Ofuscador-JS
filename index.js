@@ -18,8 +18,8 @@ var config = {
 	controlFlowFlatteningThreshold: 1,
 	deadCodeInjection: true,
 	deadCodeInjectionThreshold: 1,
-	debugProtection: false,
-	debugProtectionInterval: false,
+	debugProtection: true,
+	debugProtectionInterval: true,
 	disableConsoleOutput: true,
 	identifierNamesGenerator: 'hexadecimal',
 	log: false,
@@ -39,8 +39,7 @@ var config = {
 	splitStrings: true,
 	splitStringsChunkLength: 15,
 	transformObjectKeys: true,
-	numbersToExpressions: true,
-    debugProtectionInterval: true
+	numbersToExpressions: true
 };
 
 
