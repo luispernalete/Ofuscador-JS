@@ -8,7 +8,9 @@ Create node project with the command
 npm init
 ```
 
-install the following packages (fs version 0.0.1-security,javascript-obfuscator version 4.1.0)
+Install the following packages 
+* **fs** version: 0.0.1-security
+* **javascript-obfuscator** version: 4.1.0)
 
 ```bash
 npm i fs@0.0.1-security
@@ -94,15 +96,13 @@ function obfuscatefile(nombre){
 }); 
 ```
 
-## run the obfuscator
+## Run the obfuscator
 go to the root directory of the project and run index.js with node
-
-### Installation - Necessary packages
 
 ```bash
 node index.js
 ```
-## the output
+## The output
 the output of obfuscated files will be in the output-code directory,
 the message in the console will be "File ready and obfuscated"
 
@@ -112,6 +112,7 @@ the message in the console will be "File ready and obfuscated"
 * 64-bit operating system, x64 processor
 * Node Version v21.5.0
 * NPM Version 10.2.4
-
-
 * [Used project directory](https://github.com/luispernalete/Ofuscador-JS)
+* [JavaScript Obfuscator](https://obfuscator.io/)
+  
+
