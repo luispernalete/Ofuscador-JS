@@ -39,4 +39,9 @@ const root = createRoot(document.getElementById('container'));
 root.render(<HelloMessage name="Taylor" />);
 ```
 
+## run the obfuscator
+go to the root directory of the project and run index.js with node
 
+```bash
+node index.js
+```
