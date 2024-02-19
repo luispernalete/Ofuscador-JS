@@ -25,7 +25,7 @@ In the root folder of the project create the folder
 In the root folder of the project create the folder
 **output-code** will contain the files after obfuscation
 
-![imagen de ejemplo directorio](img/directorio.png)
+![imagen de ejemplo directorio](img/dir.png)
 
 ## Creation of Index.js
 Create a file in the root folder of the Index.js project and copy the following content
