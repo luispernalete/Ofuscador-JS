@@ -107,11 +107,11 @@ the output of obfuscated files will be in the output-code directory,
 the message in the console will be "File ready and obfuscated"
 
 ### Details used for compilation
-*Windows 10 Enterprise - 22H2 - 19045.3930
-*Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz   3.30 GHz 8,00 GB Ram momory
-*64-bit operating system, x64 processor
-*Node Version v21.5.0
-*NPM Version 10.2.4
+* Windows 10 Enterprise - 22H2 - 19045.3930
+* Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz   3.30 GHz 8,00 GB Ram momory
+* 64-bit operating system, x64 processor
+* Node Version v21.5.0
+* NPM Version 10.2.4
 
 
-*[Used project directory](https://github.com/luispernalete/Ofuscador-JS)
+* [Used project directory](https://github.com/luispernalete/Ofuscador-JS)
