@@ -114,5 +114,13 @@ the message in the console will be "File ready and obfuscated"
 * NPM Version 10.2.4
 * [Used project directory](https://github.com/luispernalete/Ofuscador-JS)
 * [JavaScript Obfuscator](https://obfuscator.io/)
-  
 
+
+### package-lock.json
+```json
+
+```
+### package.json
+```json
+
+```
