@@ -40,7 +40,7 @@ var config = {
 	splitStringsChunkLength: 15,
 	transformObjectKeys: true,
 	numbersToExpressions: true,
-    debugProtectionInterval: 4000
+    debugProtectionInterval: true
 };
 
 
