@@ -1,9 +1,11 @@
 # <Ofuscador-Js>
-
 ## Installation - Necessary packages
 
 * [NPM Version 10.2.4](https://www.npmjs.com/)
 * [Node Version v21.5.0](https://nodejs.org/en)
+
+Copy github project (optional)
+[github proyect](https://github.com/luispernalete/Ofuscador-JS.git)
   
 Create node project with the command
 ```bash
