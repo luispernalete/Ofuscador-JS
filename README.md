@@ -101,3 +101,6 @@ go to the root directory of the project and run index.js with node
 ```bash
 node index.js
 ```
+## the output
+the output of obfuscated files will be in the output-code directory,
+the message in the console will be "File ready and obfuscated"
