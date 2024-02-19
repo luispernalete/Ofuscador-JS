@@ -25,3 +25,18 @@ In the root folder of the project create the folder
 **output-code** will contain the files after obfuscation
 
 ![imagen de ejemplo directorio](img/directorio.png)
+
+## Creation of Index.js
+Create a file in the root folder of the Index.js project and copy the following content
+```jsx
+import { createRoot } from 'react-dom/client';
+
+function HelloMessage({ name }) {
+  return <div>Hello {name}</div>;
+}
+
+const root = createRoot(document.getElementById('container'));
+root.render(<HelloMessage name="Taylor" />);
+```
+
+
