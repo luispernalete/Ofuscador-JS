@@ -115,6 +115,25 @@ the message in the console will be "File ready and obfuscated"
 * [Used project directory](https://github.com/luispernalete/Ofuscador-JS)
 * [JavaScript Obfuscator](https://obfuscator.io/)
 
+### content of package.json
+```json
+{
+  "name": "ofuscador-js",
+  "version": "1.0.0",
+  "description": "ofuscador para archivos js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luispernalete88@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "javascript-obfuscator": "^4.1.0"
+  }
+}
+
+```
 
 ### content of package-lock.json
 ```json
@@ -999,22 +1018,4 @@ the message in the console will be "File ready and obfuscated"
 }
 
 ```
-### content of package.json
-```json
-{
-  "name": "ofuscador-js",
-  "version": "1.0.0",
-  "description": "ofuscador para archivos js",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "luispernalete88@gmail.com",
-  "license": "ISC",
-  "dependencies": {
-    "fs": "^0.0.1-security",
-    "javascript-obfuscator": "^4.1.0"
-  }
-}
 
-```
