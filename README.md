@@ -24,6 +24,4 @@ In the root folder of the project create the folder
 In the root folder of the project create the folder
 **output-code** will contain the files after obfuscation
 
-```md
-    ![alt text](img/directorio.png)
-    ```
+![imagen de ejemplo directorio](img/directorio.png)
