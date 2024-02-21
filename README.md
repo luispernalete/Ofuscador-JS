@@ -55,7 +55,7 @@ var config = {
 	deadCodeInjection: true,
 	deadCodeInjectionThreshold: 1,
 	debugProtection: true,
-	debugProtectionInterval: true,
+	debugProtectionInterval: 2000,
 	disableConsoleOutput: true,
 	identifierNamesGenerator: 'hexadecimal',
 	log: false,
