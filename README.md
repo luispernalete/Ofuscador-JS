@@ -49,13 +49,13 @@ const arraySourceCode = [
 
 //setting
 var config = { 
-  compact: true,
+  	compact: true,
 	controlFlowFlattening: true,
 	controlFlowFlatteningThreshold: 1,
 	deadCodeInjection: true,
 	deadCodeInjectionThreshold: 1,
-	debugProtection: false,
-	debugProtectionInterval: false,
+	debugProtection: true,
+	debugProtectionInterval: true,
 	disableConsoleOutput: true,
 	identifierNamesGenerator: 'hexadecimal',
 	log: false,
@@ -68,15 +68,14 @@ var config = {
 	stringArrayThreshold: 1,
 	stringArrayIndexShift: true,
 	stringArrayWrappersCount: 3,
-  stringArrayWrappersChainedCalls: true,
+  	stringArrayWrappersChainedCalls: true,
 	stringArrayWrappersParametersMaxCount: 4, 
-  stringArrayWrappersType: 'function',
+  	stringArrayWrappersType: 'function',
 	unicodeEscapeSequence: false,
 	splitStrings: true,
 	splitStringsChunkLength: 15,
 	transformObjectKeys: true,
-	numbersToExpressions: true,
-  debugProtectionInterval: 4000
+	numbersToExpressions: true
 };
 
 //command for obfuscation
